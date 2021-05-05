@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: thymeleafdemo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Levine
+Implementation-Vendor-Id: com.tablesearch.springboot
+Build-Jdk: 1.8.0_192
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/thymeleafdemo-employees-search
+Created-By: Maven Integration for Eclipse
+
